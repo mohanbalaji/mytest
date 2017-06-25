@@ -1,0 +1,94 @@
+
+    div.fixed {
+   		 position: fixed;
+   		 top: 0px;
+   		 left: 0px;
+  		 font-size: 30px;
+  		 margin: 20px;
+  		 color: blue;
+   	 	}
+   	 	
+
+	div.domain {
+		background-color: gray;
+		color: blue;
+		margin:  0px;
+		padding: 100px;
+		height: 150px;
+		width: 83.8%;
+
+	}
+	p{
+		text-align: center;
+	}
+	div.css {
+		background-color: yellow;
+		color: red;
+		margin:0px;
+		padding: 60px;
+		height: 400px;
+		width: 88%;
+
+	}
+	div.main {
+		background-color: skyblue;
+		color: black;
+	    margin:0px;
+		padding: 60px;
+		height: 400px;
+		width: 88%;
+
+	} 
+
+    div.features {
+    	background-color: blue; 
+    	color: red;
+    	width: 200px;
+    	height: 150px;
+    }
+
+    div.what-simple{
+    	background-color: white;
+    	color: green;
+    	width: 300px;
+    	height: 150px;
+    }
+
+    div.how {
+    	background-color: red;
+    	color: skyblue;
+    	width: 240px;
+    	height: 150px;
+    }
+
+   div {
+    	float: left;
+    	margin: 150px;
+    	height: 50px;
+    }
+
+    div.html {
+    	background-color: blue;
+    	width: 150px;
+    	height:0px;
+    	margin:0px;
+    }
+
+div.domained {
+	
+	    background-color:;
+		color: blue;
+		margin:  0px;
+		padding: 100px;
+		height: 100px;
+		width: 100px;
+
+}
+
+
+
+
+
+
+
+
